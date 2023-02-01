@@ -1,4 +1,4 @@
-# historical_tsunami
+# historical tsunami
 
 [Work In Progress]
 data wrangling on tsunami historical data
